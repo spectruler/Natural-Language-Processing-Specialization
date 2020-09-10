@@ -1,5 +1,5 @@
 # Natural Langugage Processing Specialization
-Natual Language Processing Specialization is an series of courses on coursera by deeplearning.ai to master Natural Language Processing concepts and practical aspects. 
+Natual Language Processing Specialization is a series of courses offered by deeplearning.ai to become expertise in Natural Language Processing tasks. It consist of 4 courses as: 
 
 # 1. Natural Language Processing with Classification and Vector Spaces
 
@@ -9,7 +9,7 @@ This is the first course in the series, consisted of 4 weeks, which covers tradi
 
 Being second course in series, it covers Probabilistic models and practical applications:
 * Auto Correct
-* Viterbi Algorithm and Its Applications
+* Viterbi Algorithm and It's Applications
 * Suggestions 
 * Word Embeddings 
 
@@ -27,4 +27,7 @@ Natural Language Processing with Sequence Models is third course of Natural Lang
 * Triplet Loss
 * One Shot Learning 
 
+# 4.Natural Language Processing with Attention Models
 
+
+ 
